@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/my-react-demo/static/css/main.556803ce.chunk.css",
+    "main.js": "/my-react-demo/static/js/main.21b06efe.chunk.js",
+    "main.js.map": "/my-react-demo/static/js/main.21b06efe.chunk.js.map",
+    "runtime-main.js": "/my-react-demo/static/js/runtime-main.8ed4ffe0.js",
+    "runtime-main.js.map": "/my-react-demo/static/js/runtime-main.8ed4ffe0.js.map",
+    "static/js/2.1e29c2bc.chunk.js": "/my-react-demo/static/js/2.1e29c2bc.chunk.js",
+    "static/js/2.1e29c2bc.chunk.js.map": "/my-react-demo/static/js/2.1e29c2bc.chunk.js.map",
+    "index.html": "/my-react-demo/index.html",
+    "precache-manifest.cf83d2053b686eab6a230374d7f8bd96.js": "/my-react-demo/precache-manifest.cf83d2053b686eab6a230374d7f8bd96.js",
+    "service-worker.js": "/my-react-demo/service-worker.js",
+    "static/css/main.556803ce.chunk.css.map": "/my-react-demo/static/css/main.556803ce.chunk.css.map",
+    "static/js/2.1e29c2bc.chunk.js.LICENSE.txt": "/my-react-demo/static/js/2.1e29c2bc.chunk.js.LICENSE.txt",
+    "static/media/1.gif": "/my-react-demo/static/media/1.a6bb46eb.gif",
+    "static/media/2.gif": "/my-react-demo/static/media/2.72606448.gif",
+    "static/media/3.gif": "/my-react-demo/static/media/3.b3746f85.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8ed4ffe0.js",
+    "static/js/2.1e29c2bc.chunk.js",
+    "static/css/main.556803ce.chunk.css",
+    "static/js/main.21b06efe.chunk.js"
+  ]
+}
